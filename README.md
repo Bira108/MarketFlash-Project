@@ -62,7 +62,8 @@ These are structural patterns. Without deliberate action, they will repeat in 20
 
 ----
 
- Five Moves. Zero Additional Budget.
+ ## Five Moves. Zero Additional Budget.
+ 
 | Move | Action | Expected Impact |
 |---|---|---|
 | 01 | Shift 20–30% of YouTube spend → TikTok & Email | +12,000 to 15,000 additional conversions annually |
@@ -73,7 +74,8 @@ These are structural patterns. Without deliberate action, they will repeat in 20
 
 ----
 
- The Business Case
+ ## The Business Case
+ 
 Same budget. Same team. Same channels.
 
 
@@ -85,7 +87,8 @@ Same budget. Same team. Same channels.
 
 ----
 
- Tools & Technologies
+ ## Tools & Technologies
+ 
 	* SQL — Campaign data extraction and segmentation
 	* Python — Data cleaning and exploratory analysis
 	* Tableau — Interactive dashboards and channel-audience heatmap
@@ -93,7 +96,8 @@ Same budget. Same team. Same channels.
 
 ----
 
-📁 Project Deliverables
+## Project Deliverables
+
 	*  Campaign performance dataset
 	*  Channel & audience performance breakdown
 	*  Channel-audience heatmap analysis
