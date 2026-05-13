@@ -1,44 +1,44 @@
 # MarketFlash-Project
 This report is for MarketFlash project which we design the database and Dashboard
 
-📊 MarketFlash Campaign Analytics
-📌 Overview
+ MarketFlash Campaign Analytics
+ Overview
 MarketFlash is a data analytics project delivering a full performance audit of 1,000 marketing campaigns run in 2023 across 5 channels, 8 global markets, and $24.9 million in investment. The analysis identifies where the budget worked, where it didn't, and delivers five zero-cost moves that turn 509,878 conversions into 540,000+ — same team, same budget, better decisions.
 
 ----
 
-📈 2023 Campaign at a Glance
+ 2023 Campaign at a Glance
 | Metric | Value |
 |---|---|
-| 💰 Total Investment | $24,900,000 |
-| 📣 Total Campaigns | 1,000 (~3/day) |
-| ✅ Total Conversions | 509,878 |
-| 🖱️ Click-Through Rate | 5.17% |
-| 🎯 Overall Conversion Rate | 1.01% |
-| 💵 Average Cost Per Conversion | $48.82 |
+| Total Investment | $24,900,000 |
+| Total Campaigns | 1,000 (~3/day) |
+| Total Conversions | 509,878 |
+| Click-Through Rate | 5.17% |
+| Overall Conversion Rate | 1.01% |
+| Average Cost Per Conversion | $48.82 |
 
 ----
 
-📡 Channel Performance
+ Channel Performance
 | Channel | Conversion Rate | Cost Per Conversion | Assessment |
 |---|---|---|---|
-| ✅ TikTok | Above average | < $47 | Most efficient |
-| ✅ Email | Above average | < $47 | Most efficient |
-| ⚠️ YouTube | Below average | $52.41 | 13% more expensive than TikTok — 210 campaigns run |
+| TikTok | Above average | < $47 | Most efficient |
+| Email | Above average | < $47 | Most efficient |
+| YouTube | Below average | $52.41 | 13% more expensive than TikTok — 210 campaigns run |
 
 ----
 
-📅 Seasonal Performance
+ Seasonal Performance
 | Period | Conversion Rate | Cost Per Conversion |
 |---|---|---|
-| 🟢 March (Best) | 1.17% | $45.73 |
-| 🔴 December (Worst) | 0.88% | $57.58 |
+| March (Best) | 1.17% | $45.73 |
+| December (Worst) | 0.88% | $57.58 |
 A 30% efficiency gap between best and worst months — driven by the same budget.
 
 
 ----
 
-👥 Audience Performance
+ Audience Performance
 | Audience | Conversion Rate | Cost Per Conversion |
 |---|---|---|
 | 🟢 Male 18–40 | 1.20% | Best performing segment |
@@ -49,7 +49,7 @@ A 30% efficiency gap between best and worst months — driven by the same budget
 
 ----
 
-🧩 Three Root Causes Identified
+ Three Root Causes Identified
 	1. Channel-Audience Mismatch — YouTube is an entertainment platform, not a purchasing one. Placing conversion-focused ads there for older audiences is the wrong combination of message, medium, and moment. The audience is present — but the intent is not.
 
 	2. Seasonal Budget Misalignment — Spend was concentrated in February and December, the two months with the lowest consumer intent and the highest ad market competition. We were spending the most at exactly the wrong time.
@@ -62,7 +62,7 @@ These are structural patterns. Without deliberate action, they will repeat in 20
 
 ----
 
-🚀 Five Moves. Zero Additional Budget.
+ Five Moves. Zero Additional Budget.
 | Move | Action | Expected Impact |
 |---|---|---|
 | 01 | Shift 20–30% of YouTube spend → TikTok & Email | +12,000 to 15,000 additional conversions annually |
@@ -73,19 +73,19 @@ These are structural patterns. Without deliberate action, they will repeat in 20
 
 ----
 
-💼 The Business Case
+ The Business Case
 Same budget. Same team. Same channels.
 
 
 | | Value |
 |---|---|
-| 📉 Current conversions | 509,878 |
-| 📈 Projected conversions | 540,000+ |
-| 📊 Improvement | ~6% — at zero additional cost |
+| Current conversions | 509,878 |
+| Projected conversions | 540,000+ |
+| Improvement | ~6% — at zero additional cost |
 
 ----
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 	* SQL — Campaign data extraction and segmentation
 	* Python — Data cleaning and exploratory analysis
 	* Tableau — Interactive dashboards and channel-audience heatmap
@@ -94,13 +94,13 @@ Same budget. Same team. Same channels.
 ----
 
 📁 Project Deliverables
-	* ✅ Campaign performance dataset
-	* ✅ Channel & audience performance breakdown
-	* ✅ Channel-audience heatmap analysis
-	* ✅ Root cause identification report
-	* ✅ Five-move zero-cost reallocation strategy
-	* ✅ Tableau dashboard
-	* ✅ Executive presentation
+	*  Campaign performance dataset
+	*  Channel & audience performance breakdown
+	*  Channel-audience heatmap analysis
+	*  Root cause identification report
+	*  Five-move zero-cost reallocation strategy
+	*  Tableau dashboard
+	*  Executive presentation
 
 ----
 
