@@ -1,13 +1,13 @@
-# MarketFlash-Project
-This report is for MarketFlash project which we design the database and Dashboard
-
- MarketFlash Campaign Analytics
- Overview
+ # MarketFlash Campaign Analytics
+ 
+ ## Overview
+ 
 MarketFlash is a data analytics project delivering a full performance audit of 1,000 marketing campaigns run in 2023 across 5 channels, 8 global markets, and $24.9 million in investment. The analysis identifies where the budget worked, where it didn't, and delivers five zero-cost moves that turn 509,878 conversions into 540,000+ — same team, same budget, better decisions.
 
 ----
 
- 2023 Campaign at a Glance
+ ## 2023 Campaign at a Glance
+ 
 | Metric | Value |
 |---|---|
 | Total Investment | $24,900,000 |
@@ -19,7 +19,8 @@ MarketFlash is a data analytics project delivering a full performance audit of 1
 
 ----
 
- Channel Performance
+ ## Channel Performance
+ 
 | Channel | Conversion Rate | Cost Per Conversion | Assessment |
 |---|---|---|---|
 | TikTok | Above average | < $47 | Most efficient |
