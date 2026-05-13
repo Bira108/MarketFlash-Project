@@ -27,9 +27,9 @@ MarketFlash is a data analytics project delivering a full performance audit of 1
 | Email | Above average | < $47 | Most efficient |
 | YouTube | Below average | $52.41 | 13% more expensive than TikTok — 210 campaigns run |
 
-----
 
- Seasonal Performance
+ ## Seasonal Performance
+ 
 | Period | Conversion Rate | Cost Per Conversion |
 |---|---|---|
 | March (Best) | 1.17% | $45.73 |
@@ -37,9 +37,8 @@ MarketFlash is a data analytics project delivering a full performance audit of 1
 A 30% efficiency gap between best and worst months — driven by the same budget.
 
 
-----
-
- Audience Performance
+ ## Audience Performance
+ 
 | Audience | Conversion Rate | Cost Per Conversion |
 |---|---|---|
 | 🟢 Male 18–40 | 1.20% | Best performing segment |
@@ -48,9 +47,9 @@ A 30% efficiency gap between best and worst months — driven by the same budget
 | 🔴 Seniors 60+ | 0.79% | $61.30 per customer |
 | 🔴 YouTube × Seniors 60+ | 0.63% | $76.18 per customer — worst combination |
 
-----
 
- Three Root Causes Identified
+ ## Three Root Causes Identified
+ 
 	1. Channel-Audience Mismatch — YouTube is an entertainment platform, not a purchasing one. Placing conversion-focused ads there for older audiences is the wrong combination of message, medium, and moment. The audience is present — but the intent is not.
 
 	2. Seasonal Budget Misalignment — Spend was concentrated in February and December, the two months with the lowest consumer intent and the highest ad market competition. We were spending the most at exactly the wrong time.
