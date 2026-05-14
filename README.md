@@ -108,4 +108,8 @@ Same budget. Same team. Same channels.
 
 ----
 
+## Video Presentation
+
+[▶ Watch the Video Presentation](https://drive.google.com/file/d/17XKleYwfGRMmNslbWYyi-ORe79hM3gzE/view?usp=drive_link)
+
 by Ubiratan Gonzaga e Silva — Data Analytics, Sep 2025
